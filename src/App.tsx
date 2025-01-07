@@ -1,13 +1,13 @@
 
-
 import './App.css'
+import Typography from './components/TypographyDemo'
 
 function App() {
  
 
   return (
     <>
-      <h2>My website</h2>
+      <Typography/>
     </>
   )
 }
